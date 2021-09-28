@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.9.24)  24 SEP 2021 15:02
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.9.24)  27 SEP 2021 19:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -512,7 +512,7 @@ Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and footer
 Package: lipsum 2021-03-03 v2.3 150 paragraphs of Lorem Ipsum dummy text
  (/usr/local/texlive/2021/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex
 File: lipsum.ltd.tex 2021-03-03 v2.3 The Lorem ipsum dummy text
-)) (/Users/randow/Desktop/my_notes/.texpadtmp/操作系统.aux)
+)) (/Users/randow/Desktop/my_notes/OS/.texpadtmp/操作系统.aux)
 \openout1 = `操作系统.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
@@ -631,7 +631,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 18.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 18.
-(/Users/randow/Desktop/my_notes/.texpadtmp/操作系统.toc
+(/Users/randow/Desktop/my_notes/OS/.texpadtmp/操作系统.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.53937> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -644,14 +644,14 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
  [1
 
-] (/Users/randow/Desktop/my_notes/.texpadtmp/操作系统.aux) ) 
+] (/Users/randow/Desktop/my_notes/OS/.texpadtmp/操作系统.aux) ) 
 Here is how much of TeX's memory you used:
  20246 strings out of 476919
- 493382 string characters out of 5821840
+ 493409 string characters out of 5821840
  1001987 words of memory out of 5000000
  39871 multiletter control sequences out of 15000+600000
  407290 words of font info for 65 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  113i,6n,116p,1193b,239s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on /Users/randow/Desktop/my_notes/.texpadtmp/操作系统.pdf (1 page).
+Output written on /Users/randow/Desktop/my_notes/OS/.texpadtmp/操作系统.pdf (1 page).

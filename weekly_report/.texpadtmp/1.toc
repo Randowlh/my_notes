@@ -1,0 +1,9 @@
+\contentsline {section}{\numberline {1}最初设计}{1}{}%
+\contentsline {section}{\numberline {2}改进设计}{1}{}%
+\contentsline {subsection}{\numberline {2.1}关于传输瓶颈的改进}{1}{}%
+\contentsline {subsection}{\numberline {2.2}对于模型进行简化}{2}{}%
+\contentsline {subsection}{\numberline {2.3}未实行的改进}{2}{}%
+\contentsline {section}{\numberline {3}工作进度}{2}{}%
+\contentsline {subsection}{\numberline {3.1}对可穿戴设备外壳的设计}{2}{}%
+\contentsline {subsection}{\numberline {3.2}树莓派外接交互按钮、声音输出接口的设计以及驱动编写}{3}{}%
+\contentsline {subsection}{\numberline {3.3}供电电路以及电池的设计}{3}{}%
