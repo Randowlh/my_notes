@@ -1,0 +1,21 @@
+\contentsline {section}{\numberline {1}可行性分析}{2}{}%
+\contentsline {subsection}{\numberline {1.1}项目优势与劣势}{2}{}%
+\contentsline {subsubsection}{\numberline {1.1.1}优势分析}{2}{}%
+\contentsline {subsubsection}{\numberline {1.1.2}劣势分析}{2}{}%
+\contentsline {subsection}{\numberline {1.2}机遇分析}{2}{}%
+\contentsline {subsection}{\numberline {1.3}竞争和挑战}{3}{}%
+\contentsline {subsubsection}{\numberline {1.3.1}市场认知尚未打开}{3}{}%
+\contentsline {subsubsection}{\numberline {1.3.2}开发线上系统设计到信息安全问题}{3}{}%
+\contentsline {subsubsection}{\numberline {1.3.3}大公司介入相对容易}{4}{}%
+\contentsline {section}{\numberline {2}风险分析}{4}{}%
+\contentsline {subsection}{\numberline {2.1}风险预测}{4}{}%
+\contentsline {subsubsection}{\numberline {2.1.1}市场风险}{4}{}%
+\contentsline {paragraph}{本项目创立阶段初期，可能会遭遇下列某项或多项市场风险：}{4}{}%
+\contentsline {subsubsection}{\numberline {2.1.2}成本控制风险}{4}{}%
+\contentsline {paragraph}{除市场外因带来的风险外，本项目在创建初期还会遇到涉及资金成本的风险：}{4}{}%
+\contentsline {subsubsection}{\numberline {2.1.3}管理风险}{5}{}%
+\contentsline {subsubsection}{\numberline {2.1.4}技术风险}{5}{}%
+\contentsline {subsection}{\numberline {2.2}风险控制}{5}{}%
+\contentsline {subsubsection}{\numberline {2.2.1}发展新项目的独特之处}{6}{}%
+\contentsline {subsubsection}{\numberline {2.2.2}技术创新风险的财务转移}{6}{}%
+\contentsline {subsubsection}{\numberline {2.2.3}加强对成本的规划与预测}{6}{}%

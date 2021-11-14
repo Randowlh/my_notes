@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.9.24)  27 SEP 2021 19:30
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.9.24)  25 OCT 2021 22:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -595,19 +595,19 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
 * driver: xetex
-* paper: a4paper
+* paper: a5paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
-* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=418.25368pt
-* \textheight=591.5302pt
-* \oddsidemargin=17.3571pt
-* \evensidemargin=17.3571pt
-* \topmargin=-7.86334pt
+* h-part:(L,W,R)=(63.16576pt, 294.76926pt, 63.16577pt)
+* v-part:(T,H,B)=(71.70166pt, 418.25368pt, 107.55254pt)
+* \paperwidth=421.10078pt
+* \paperheight=597.50787pt
+* \textwidth=294.76926pt
+* \textheight=418.25368pt
+* \oddsidemargin=-9.10423pt
+* \evensidemargin=-9.10423pt
+* \topmargin=-37.56833pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -631,27 +631,16 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 18.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 18.
-(/Users/randow/Desktop/my_notes/OS/.texpadtmp/操作系统.toc
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.53937> on input line 2.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 2.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 2.
-)
-\tf@toc=\write4
-\openout4 = `操作系统.toc'.
-
- [1
+[1
 
 ] (/Users/randow/Desktop/my_notes/OS/.texpadtmp/操作系统.aux) ) 
 Here is how much of TeX's memory you used:
- 20246 strings out of 476919
- 493409 string characters out of 5821840
- 1001987 words of memory out of 5000000
- 39871 multiletter control sequences out of 15000+600000
- 407290 words of font info for 65 fonts, out of 8000000 for 9000
+ 20203 strings out of 476919
+ 492276 string characters out of 5821840
+ 999991 words of memory out of 5000000
+ 39844 multiletter control sequences out of 15000+600000
+ 406294 words of font info for 52 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 113i,6n,116p,1193b,239s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 113i,6n,116p,1193b,247s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on /Users/randow/Desktop/my_notes/OS/.texpadtmp/操作系统.pdf (1 page).
